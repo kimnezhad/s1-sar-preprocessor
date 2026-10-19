@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "s1-sar-preprocessor: Sentinel-1 GRD preprocessing with ESA SNAP"
+authors:
+  - family-names: Mohammadnezhad
+    given-names: Kimia
+license: MIT
+repository-code: "https://github.com/kimnezhad/s1-sar-preprocessor"
